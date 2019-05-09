@@ -2,4 +2,4 @@
 програма підтримує наступні команди:
 purchase yyyy-mm-dd amountOfMoney currency nameOfproduct - додає запис про покупку
 all - виводить список покупок посортованих за датою
-clear yyyy-mm-dd - видаляє всі покупки за вказаною датою
+clear yyyy-mm-dd - видаляє всі покупки за вказаною датою.
